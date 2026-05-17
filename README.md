@@ -1,2 +1,2 @@
 # newrepos
-This is my first Git Repositoryh
+This is my first Git Repository
